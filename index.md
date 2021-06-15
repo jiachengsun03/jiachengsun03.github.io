@@ -1,8 +1,7 @@
 ## Jiacheng Sun
 
-I am a PhD candidate at [The University of Edinburgh](https://www.ed.ac.uk/) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate at [UK Biochar Research Centre](https://www.biochar.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/), working with Ondřej Mašek. My research focuses on algal biofuel and biochar production and applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
